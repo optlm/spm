@@ -11,8 +11,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "EngageMinds",
-            url: "https://cdn.engageminds.ai/sdk/ios/PublisherSDK_EngageMinds_iOS_V1.3.7.zip",
-            checksum: "b2c72a3bf0f8008d630823a03b653c2aec6cf57630154357df6711dbd25f5a49"
+            url: "https://cdn.engageminds.ai/sdk/ios/PublisherSDK_EngageMinds_iOS_V1.3.8.zip",
+            checksum: "9192d38014dcbfd62ea9a7010bf0dcfdff74a0c343a3567dea2700ae92b92969"
         )
     ]
 )
